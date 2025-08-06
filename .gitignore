@@ -1,0 +1,7 @@
+.env
+node_modules/
+test-results/
+porto-output.json
+*.xls
+*.xlsx
+.DS_Store
